@@ -15,3 +15,13 @@
 
 ## work flow
 ![workflow](https://user-images.githubusercontent.com/36880919/81048236-e9924e00-8ef6-11ea-8b8e-d13355b274e3.png)
+
+
+
+
+
+## 기능 요구사항 
+
+|내용|진행|
+|-----|--|
+|알람기능||
