@@ -21,6 +21,7 @@
 
 ( 이 기능 때문에 미확실 프로젝트 ) 
 
+  ~ 확인 결과 .. 노즈모드 ( 화면잠금상태 ) 에서는 온라인 사용이 불가능. 더 알아봐야할듯.
 
 ## work flow
 ![workflow](https://user-images.githubusercontent.com/36880919/81048236-e9924e00-8ef6-11ea-8b8e-d13355b274e3.png)
